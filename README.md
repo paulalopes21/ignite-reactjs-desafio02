@@ -1,6 +1,8 @@
 # Jornada Ignite Rocketseat - Trilha ReactJS
 
-## Desafio 02 - Componentizando a aplicação
+## Chapter I
+
+### Desafio 02 - Componentizando a aplicação
 
 Refatoração de uma página para listagem de filmes de acordo com gênero dividindo
 a aplicação em dois componentes principais: SideBar e Conteúdo.
